@@ -1,4 +1,4 @@
-<header><div>Created by Igor</div></header>
+<header><div>Created by Igor Phelype</div></header>
 
 <style>
   header {

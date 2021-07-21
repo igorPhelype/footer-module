@@ -1,4 +1,4 @@
-<header><div>Todo List</div></header>
+<header><div>Created by Igor</div></header>
 
 <style>
   header {
